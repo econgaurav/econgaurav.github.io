@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gaurav Khanna — Economics</title>
+<meta name="description" content="Gaurav Khanna, Associate Professor of Economics, UC San Diego School of Global Policy and Strategy.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <div>
+        <p class="eyebrow">Economics · UC San Diego</p>
+        <h1 class="name"><a href="index.html">Gaurav Khanna</a></h1>
+      </div>
+      <nav class="primary">
+        <a href="research.html">Research</a>
+        <a href="media.html">Media</a>
+        <a href="https://econgaurav.github.io/papers/Gaurav_Khanna_CV.pdf" target="_blank" rel="noopener">CV</a>
+      </nav>
+    </div>
+
+    <div class="bio-row">
+      <img class="portrait" src="assets/headshot.jpg" alt="Portrait of Gaurav Khanna" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'portrait',innerHTML:'<span>GK</span>'}))">
+      <div class="bio-text">
+        <p class="bio">I am an Associate Professor of Economics at UC San Diego's School of Global Policy and Strategy, a Non-Resident Fellow at the Center for Global Development, and an Editor at the <em>Journal of Labor Economics</em>.</p>
+        <p class="bio">My research spans labor, migration, and development economics — with recent work on high-skilled migration, education reform, and the local effects of trade and mobility shocks.</p>
+        <p class="email">gakhanna@ucsd.edu</p>
+      </div>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <h2 class="section-title">Recent &amp; forthcoming</h2>
+      <a href="research.html" class="section-note">All research →</a>
+    </div>
+    <div class="papers" id="highlightPapers"></div>
+  </section>
+
+  <footer class="site-foot">
+    <p>© <span id="year"></span> Gaurav Khanna</p>
+  </footer>
+</div>
+
+<script src="assets/site.js"></script>
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  // Show up to 4 of the most recent papers as a homepage teaser.
+  fetch('data/papers.json').then(r => r.json()).then(papers => {
+    const el = document.getElementById('highlightPapers');
+    const featured = papers.filter(p => p.featured).slice(0, 4);
+    const list = featured.length ? featured : papers.slice(0, 4);
+    el.innerHTML = list.map(p => `
+      <article class="paper">
+        <h3 class="paper-title"><a href="${p.pdf || '#'}" target="_blank" rel="noopener">${p.title}</a></h3>
+        <div class="paper-authors">${p.authors}</div>
+        <div class="paper-status${p.pending ? ' pending' : ''}">${p.status}</div>
+      </article>`).join('');
+  }).catch(() => {
+    document.getElementById('highlightPapers').innerHTML =
+      '<p class="empty-state">Could not load data/papers.json — see research.html for details (needs a local server if previewing from disk).</p>';
+  });
+</script>
+</body>
+</html>

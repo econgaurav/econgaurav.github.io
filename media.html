@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Media — Gaurav Khanna</title>
+<meta name="description" content="Press coverage, interviews, and op-eds featuring Gaurav Khanna's research.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <div>
+        <p class="eyebrow">Economics · UC San Diego</p>
+        <h1 class="name"><a href="index.html">Gaurav Khanna</a></h1>
+      </div>
+      <nav class="primary">
+        <a href="research.html">Research</a>
+        <a href="media.html" class="current">Media</a>
+        <a href="https://econgaurav.github.io/papers/Gaurav_Khanna_CV.pdf" target="_blank" rel="noopener">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <h1 class="page-title">Media</h1>
+      <span class="section-note" id="mediaCount"></span>
+    </div>
+
+    <p class="filter-label">Category</p>
+    <div class="type-filter" id="mediaCategoryFilter"></div>
+
+    <div class="media-log" id="mediaLog"></div>
+  </section>
+
+  <footer class="site-foot">
+    <p>© <span id="year"></span> Gaurav Khanna</p>
+  </footer>
+</div>
+
+<script src="assets/site.js"></script>
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  initMediaPage();
+</script>
+</body>
+</html>
