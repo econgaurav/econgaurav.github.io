@@ -436,7 +436,7 @@
    {
       "abstract" : "We study how firms structure supply chains in the presence of climate risk. We develop a quantitative general equilibrium model of multi-region input sourcing, where firms optimize sourcing decisions under the risk of local climate disruptions. Firms diversify their intermediate inputs from suppliers across space, hedging against the probability of these disruptions. In general equilibrium, input prices and wages are higher for places with lower climate risk, as these regions are relatively more attractive as sourcing locations. This gives rise to a cost minimization-resilience tradeoff when structuring supply chains. We leverage new geographically granular data on bilateral sourcing shares for Indian regions, to quantify the model. We show that supply chain diversification unambiguously reduces real wage volatility, but ambiguously affects its mean, as diversification may come at the cost of a decline in output. While supply chain diversification mitigates climate risk, it exacerbates the distributional consequences of climate change by reducing wages in regions prone to frequent shocks.",
       "pdf" : "https://econgaurav.github.io/papers/Weathering_the_storm.pdf",
-      "status" : "Under revision for Review of Economics and Statistics",
+      "status" : "Revise and resubmit at Review of Economics and Statistics",
       "authors" : "with Juanma Castro-Vincenzi, Nicolas Morales, Nitya Pandalai-Nayar",
       "type" : "working-paper",
       "tags" : [
