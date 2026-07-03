@@ -1,0 +1,564 @@
+[
+   {
+      "abstract" : "We study how US immigration policy and the Internet boom affected not just the US, but also led to a tech boom in India. Students and workers in India acquired computer science skills to join the rapidly growing US IT industry. As the number of US visas was capped, many remained in India, enabling the growth of an Indian IT sector that eventually surpassed the US in IT exports. We leverage variation in immigration quotas and US demand for migrants to show that India experienced a 'brain gain' when the probability of migrating to the US was higher. Using detailed data on higher education, alumni networks, and work histories of high-skill workers, we show that changes in the US H-1B cap induced changes in fields of study, and occupation choice in India. We then build and estimate a quantitative model incorporating migration, heterogeneous abilities, trade, innovation, and dynamic occupation choice in both countries. We find that high-skill migration raised the average welfare of workers in each country, but had distributional consequences. The H-1B program induced Indians to switch to computer science occupations, and helped drive the shift in IT production from the US to India. We show that accounting for endogenous skill acquisition is key for quantifying the gains from migration.",
+      "pdf" : "https://econgaurav.github.io/papers/ITBoom.pdf",
+      "status" : "Revise and resubmit at American Economic Review",
+      "authors" : "with Nicolas Morales",
+      "type" : "working-paper",
+      "tags" : [
+         "labor",
+         "development",
+         "migration",
+         "macro",
+         "education",
+         "trade"
+      ],
+      "featured" : true,
+      "pending" : true,
+      "title" : "The IT Boom And Other Unintended Consequences of Chasing the American Dream"
+   },
+   {
+      "status" : "Revise and resubmit at American Economic Review",
+      "authors" : "with Carlos Medina, Anant Nyshadham, Daniel Ramos, Jorge Tamayo, Audrey Tiew",
+      "abstract" : "Neighborhoods are strong determinants of both economic opportunity and criminal activity. Does improving connectedness between segregated and unequal parts of a city predominantly import opportunity or export crime? We use a spatial general equilibrium framework to model individual decisions of where to work and whether to engage in criminal activity, with spillovers across the criminal and legitimate sectors. We match at the individual level various sources of administrative records from Medellín, Colombia, to construct a novel, granular dataset recording the origin and destination of both workers and criminals. We leverage the rollout of a cable car in an event study design, and show how access to transit lines reduces criminal participation and induces legitimate employment. We identify key parameters of the model, informing how changes in transportation costs causally affect the location and sector choices of workers and criminals. Our counterfactual exercises indicate that, when improving the connectedness of neighborhoods, overall criminal activity in the city is reduced, and total welfare is improved.",
+      "pdf" : "https://econgaurav.github.io/papers/Spatial_mobility.pdf",
+      "title" : "Spatial Mobility, Economic Opportunity, and Crime",
+      "type" : "working-paper",
+      "tags" : [
+         "labor",
+         "development",
+         "crime",
+         "trade"
+      ],
+      "pending" : true
+   },
+   {
+      "title" : "The Global Value of Cities",
+      "tags" : [
+         "labor",
+         "development",
+         "migration"
+      ],
+      "type" : "working-paper",
+      "authors" : "with Aakash Bhalothia, Gavin Engelstad, Harrison Mitchell",
+      "status" : "",
+      "pdf" : "https://econgaurav.github.io/papers/Global_Value_of_Cities.pdf",
+      "abstract" : "We estimate the economic value of every city in the world using detailed job histories for 513 million workers in 220,000 cities across 191 countries. We use these estimates to document why some cities are more productive, and quantify the earnings gains from migration over the course of development. The data include complete job spells--with start and end dates, establishment names, locations, job titles, and effective salaries--allowing us to implement an event-study movers design with individual and time fixed effects. We find that moving to higher-value cities leads to immediate gains in job seniority, transitions to better-paid industries and occupations, and large earnings increases. The global scope of our analysis lets us compare internal and cross-border moves and assess how the productivity advantages of cities vary with development. Across borders, 93% of wage changes stem from city effects; within countries, 45-73% do. Richer countries exhibit stronger ability-based sorting, reducing the share explained by location. City effects increase with industrial diversity and population size, consistent with agglomeration economies. More productive cities allocate a greater share of workers to high-productivity firms. The wide dispersion of city effects within countries points to potential gains from migration--especially in low-income, less-urbanized economies. Reallocating workers within and across cities to match the US distribution yields substantial wage gains in developing countries."
+   },
+   {
+      "status" : "June 2026",
+      "authors" : "with Juanma Castro-Vincenzi, Adry Gracio, Nitya Pandalai-Nayar",
+      "pdf" : "https://econgaurav.github.io/papers/RiskTrade.pdf",
+      "abstract" : "We study how equilibrium patterns of production, trade, and input sourcing in complex supply chains are shaped by aggregate risk. We develop a quantitative model of sequential production under risk, with inputs for each production stage sourced from multiple origins. Input production is subject to aggregate shocks that can vary by origin-destination and production stage. We show that sourcing shares in this environment are equal to an input's expected output elasticity — its expected marginal contribution to output across states of the world. We derive analytical results showing the response of sourcing shares to changes in risk, the welfare impact of increases in risk, and the impact of risk on shaping comparative advantage. We quantify the model using 3 stages of production and 50 countries. Counterfactuals show that comparative advantage flattens in a risky world, as countries diversify away from the relatively most productive regions to mitigate risk. Increasing supply chain complexity reduces welfare volatility for riskier countries, as these countries benefit from greater opportunities to diversify with more production stages. We also quantify the welfare impacts of increases in Chinese- and U.S.-origin risk, and the impact of U.S. trade cost increases in a world with risky global supply chains.",
+      "title" : "Supply Chain Risk, Trade and Economic Fragility",
+      "tags" : [
+         "trade"
+      ],
+      "type" : "working-paper"
+   },
+   {
+      "status" : "Journal of Economic Behavior and Organization, 2026",
+      "title" : "Shared Identity and Entrepreneurship",
+      "authors" : "with Manaswini Bhalla, Ishani Chatterjee, Manisha Goel",
+      "tags" : [
+         "labor",
+         "development",
+         "crime",
+         "trade"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Identity_Entrepreneurship.pdf",
+      "abstract" : "We show that shared identity with elected leaders helps entrepreneurs form new and productive businesses. Following close Indian elections during 2006 - 16, local firm entry by entrepreneurs belonging to the same cultural groups as winning candidates increases. Despite benefitting from preferential behavior, and in contrast to earlier work, such politically connected entrants are more productive than incumbent in-group firms. Simultaneously, business formation by out-group entrepreneurs does not decline. The high TFP of in-group entrants suggests barriers that previously precluded the entry of potentially high-performing firms. Administrative entry costs seem to be a key barrier that in-group politicians help ease."
+   },
+   {
+      "status" : "Journal of Economic Perspectives, Winter 2026",
+      "authors" : "",
+      "abstract" : "Between 1990 and 2019, the share of US college-educated workers from five key Asian countries doubled to 7.3%. Over this period, migration from these countries contributed to over 38% of the growth in software developers, 25% of the increase in scientists and engineers, and 21% of the growth in physicians (ACS, 2019). In this article, I examine the rise in high-skill migration from Asia, arguing two key points related to its causes and consequences: First, specific factors uniquely positioned certain Asian countries to meet the United States' growing demand for specialized talent. Second, these migration flows strengthened high-skill sectors in the US, with substantial impacts on both the US and Asian economies.",
+      "pdf" : "https://econgaurav.github.io/papers/FromAsia_withSkills.pdf",
+      "title" : "From Asia, with Skills",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration"
+      ]
+   },
+   {
+      "authors" : "with Ruixue Jia, Hongbin Li, Yuli Xu",
+      "status" : "Under revision for Economic Journal",
+      "pdf" : "https://econgaurav.github.io/papers/RippleEffects.pdf",
+      "abstract" : "China's unprecedented expansion of higher education in 1999, increased annual college enrollment from 1 million to 9.6 million by 2020. We trace the global ripple effects of that expansion by examining its impact on US graduate education and local economies surrounding college towns. Combining administrative data from China's college admissions system and US visa data, we leverage the centralized quota system governing Chinese college admissions for identification and present three key findings. First, the expansion of Chinese undergraduate education drove graduate student flows to the US: every additional 100 college graduates in China led to 3.6 Chinese graduate students in the US. Second, Chinese master's students generated positive spillovers, driving the birth of new master's programs, and increasing the number of other international and American master's students, particularly in STEM fields. And third, the influx of international students supported local economies around college towns, raising job creation rates outside the universities, as well. Our findings highlight how domestic education policy in one country can reshape the academic and economic landscape of another through student migration and its broader spillovers.",
+      "title" : "The Ripple Effects of China's College Expansion on American Universities",
+      "pending" : true,
+      "tags" : [
+         "labor",
+         "migration",
+         "education"
+      ],
+      "type" : "working-paper"
+   },
+   {
+      "abstract" : "We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 73.6% of long-run income gains come from domestic rather than migrant income. Trade-driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.6% of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities.",
+      "pdf" : "https://econgaurav.github.io/papers/Abundance_from_Abroad.pdf",
+      "authors" : "with Emir Murathanoglu, Caroline Theoharides, Dean Yang",
+      "status" : "American Economic Review, 2026",
+      "type" : "publication",
+      "featured" : true,
+      "tags" : [
+         "labor",
+         "development",
+         "migration",
+         "education"
+      ],
+      "title" : "Abundance from Abroad: Migrant Income and Long-Run Economic Development"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Dowry_as_Pensions.pdf",
+      "abstract" : "This paper uses newly collected data on the allocation of dowry to examine its role in resolving intergenerational frictions around migration in India. Migration disrupts traditional elderly support structures, in which sons live near their parents and care for them in old age. We develop a model in which dowry can promote migration by allowing sons to make upfront transfers to their parents and ease constraints on income sharing. To test this hypothesis, we collect two new data sets that measure the distribution of dowry between family members. We document for the first time that net transfers of dowry to a man's parents are common but far from universal. Consistent with using dowry for income sharing, such transfers occur more often when sons migrate, especially when they work in higher-earning occupations. In nationally representative data, migration rates are higher in areas with stronger historical dowry traditions. Finally, exploiting a large-scale highway construction program, we show that men from areas with stronger historical dowry traditions migrate more when migration costs fall. Our findings provide some clues as to why dowry persists despite its well-documented adverse consequences.",
+      "tags" : [
+         "labor",
+         "development",
+         "migration"
+      ],
+      "featured" : true,
+      "type" : "publication",
+      "authors" : "with Natalie Bau, Corinne Low, Alessandra Voena",
+      "title" : "Traditional Institutions in Modern Times: Dowries as Pensions When Sons Migrate",
+      "status" : "Quarterly Journal of Economics, 2026"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Brain_Drain_Science.pdf",
+      "abstract" : "How does emigration of highly educated citizens of low-income countries to high-income countries affect the economies of the origin countries? The direct effect is \"brain drain\"--a decrease in the country's human capital stock. However, there may also be indirect \"brain gain\" effects. This review summarizes evidence that uses causal inference methods to reveal mechanisms that may lead to brain drain, gain, or circulation. Collectively, the weight of the evidence suggests that migration opportunities often increase human capital stock in origin countries and produce downstream beneficial effects through remittances; foreign direct investment and trade linkages; transfers of knowledge, technology and norms; and return migration. We discuss conditions under which benefits from skilled migration may outweigh costs and also describe potential research paths to inform policy.",
+      "status" : "Science 388: eadr8861, 2025",
+      "authors" : "with Catia Batista, Daniel Han, Johannes Haushofer, David McKenzie, Ahmed Mushfiq Mobarak, Caroline Theoharides, Dean Yang",
+      "featured" : true,
+      "tags" : [
+         "labor",
+         "migration"
+      ],
+      "type" : "publication",
+      "title" : "Brain Drain or Brain Gain? Effects of High-Skilled International Emigration on Origin Countries"
+   },
+   {
+      "status" : "Journal of Public Economics, 245 105352, 2025",
+      "title" : "Female Labor Supply and Rural Pension Eligibility in Brazil",
+      "authors" : "with Margaret Lay, Stephanie Lee, Benjamin Thompson",
+      "tags" : [
+         "labor",
+         "development"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Brazil_W_Pensions.pdf",
+      "abstract" : "In 1991, Brazil expanded its rural retirement pension to cover millions of previously uncovered women, conditional on work requirements. We use a difference-in-differences approach to show that this expansion drastically increased married women's employment by nine percentage points, or 26 percent. This increase in labor force participation occurred among women who were immediately age-eligible, and among younger cohorts that would be eligible in the future. These results illuminate the capacity of workers to respond to financial incentives for labor participation, and the extent to which younger workers might be forward-looking as they respond to retirement incentives."
+   },
+   {
+      "title" : "The Productivity Consequences of Pollution-Induced Migration in China",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "development",
+         "migration",
+         "macro"
+      ],
+      "status" : "American Economic Journal: Applied Economics, vol 17, No 2, April 2025",
+      "authors" : "with Wenquan Liang, A Mushfiq Mobarak, Ran Song",
+      "abstract" : "We quantify how pollution affects aggregate productivity and welfare in spatial equilibrium. We document a robust pattern in which skilled workers in China emigrate away from polluted cities, more than the unskilled. These patterns are evident under various empirical specifications, such as when instrumenting for pollution using distant upwind power-plants, or thermal inversions that trap pollutants. Pollution changes the spatial distribution of skilled and unskilled workers, which increases returns-to-skill in cities that the educated emigrate from. We quantify the loss in aggregate productivity due to this re-sorting by estimating a spatial equilibrium model. Counterfactual simulations show that reducing pollution increases productivity through spatial re-sorting by approximately as much as the direct health benefits of clean air. We identify a new channel through which pollution lowers aggregate productivity significantly. Hukou mobility restrictions exacerbate welfare losses. Skilled workers' aversion to pollution explains a substantial portion of the wage-gap between cities.",
+      "pdf" : "https://econgaurav.github.io/papers/Productivity_Consequences.pdf"
+   },
+   {
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration",
+         "education"
+      ],
+      "title" : "Migration Policy and the Supply of Foreign Physicians: Evidence from the Conrad 30 Waiver Program",
+      "abstract" : "In the United States, rural and low-income communities have difficulty attracting and retaining physicians, potentially adversely impacting health outcomes. With a limited supply of physicians completing medical school at US universities, foreign-born and educated physicians provide a potential source of supply in underserved areas. For international medical school graduates (IMGs) the terms of the commonly used J-1 visa require a return to the home country for two years following employment in medical residency. Our analysis examines the extent to which the Conrad 30 Visa Waiver impacts the supply of physicians at state and local levels, particularly in areas designated as medically underserved. Changes in the federal limit on the number of waivers per state, combined with variation in the state-level restrictions on eligible specialties, and geographies in which physicians can work, provide evidence on the role of visa restrictions in limiting the supply of doctors. Expansion of the cap on visa waivers increased the supply of IMGs, particularly in states that did not limit waiver recipients to primary care physicians or particular places of employment. There is little evidence of reductions in US-trained doctors in states where IMG increases were the largest, suggesting little evidence for crowding out.",
+      "pdf" : "https://econgaurav.github.io/papers/Conrad30_Waiver_Program.pdf",
+      "status" : "Journal of Economic Behavior & Organization, vol 226, October 2024, 106682",
+      "authors" : "with Breno Braga, Sarah Turner"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Trade_Liberalization_Chinese.pdf",
+      "abstract" : "We highlight a lesser-known consequence of China's integration into the world economy: the rise of services trade. We demonstrate how the United States' trade deficit in goods cycles back as a surplus in U.S. exports of education services. Focusing on China's accession to the World Trade Organization, we show that Chinese cities more exposed to trade liberalization sent more students to U.S. universities. Growth in housing income and wealth allowed Chinese families to afford U.S. tuition, and more students financed their studies using personal funds. Our estimates suggest that recent trade wars could cost U.S. universities around $1.1 billion in annual tuition revenue.",
+      "tags" : [
+         "labor",
+         "development",
+         "migration",
+         "education",
+         "trade"
+      ],
+      "type" : "publication",
+      "authors" : "with Kevin Shih, Ariel Weinberger, Mingzhi Xu, Miaojie Yu",
+      "status" : "Review of Economics and Statistics, 23 October 2023",
+      "title" : "Trade Liberalization and Chinese Students in US Higher Education"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Employment_Crime_Columbia.pdf",
+      "abstract" : "Canonical models of entry into crime emphasize occupational sorting on economic incentives. We attempt to isolate the occupation-choice dimension of criminal participation responses to disincentives for formal employment. We link administrative socioeconomic microdata with the universe of arrests in Medellín over a decade, and exploit exogenous variation in formal-sector employment around a socioeconomic-score cutoff, below which individuals receive benefits if not formally employed. We model the various mechanisms by which the policy variation we study could affect both idiosyncratic and occupational criminality. Regression discontinuity estimates confirm this policy unintentionally reduced formal-sector employment and generated a corresponding increase in arrests associated with criminal enterprise activity. Consistent with an occupational choice interpretation as modeled, we find no effects on crimes unlikely to be associated with organized entities, such as crimes of impulse or opportunity. Effects on arrests are strongest in neighborhoods with more opportunities to join criminal enterprises.",
+      "tags" : [
+         "labor",
+         "development",
+         "crime"
+      ],
+      "type" : "publication",
+      "authors" : "with Carlos Medina, Anant Nyshadham, Jorge Tamayo",
+      "title" : "Formal Employment and Organized Crime: Regression Discontinuity Evidence from Colombia",
+      "status" : "The Economic Journal, 4 April 2023"
+   },
+   {
+      "title" : "Large-scale Education Reform in General Equilibrium: Regression Discontinuity Evidence from India",
+      "tags" : [
+         "labor",
+         "development",
+         "macro",
+         "education"
+      ],
+      "type" : "publication",
+      "authors" : "",
+      "status" : "Journal of Political Economy, vol 131(2), February 2023",
+      "pdf" : "https://econgaurav.github.io/papers/Education_Reform_India.pdf",
+      "abstract" : "The economic consequences of large-scale government investments in education depend on general equilibrium effects in both the labor market and education sector. I develop a general equilibrium model that captures the consequences of massive countrywide schooling initiatives. I provide unbiased estimates of the model's elasticities using a Regression Discontinuity design derived from Indian government policy. The earnings returns to a year of education are 13.4%, and the general equilibrium labor market effects are substantial: they depress the returns by 6.6 percentage points. These general equilibrium effects have distributional consequences across cohorts and skill groups: as a result of the policy, unskilled workers are better off and skilled workers worse off."
+   },
+   {
+      "abstract" : "The COVID-19 pandemic brought the dual crises of disease and the containment policies designed to mitigate it. Yet, there is little evidence on the impacts of these policies on women in lower-income countries, where there may be limited social safety nets to absorb these shocks. We conduct a large phone survey and leverage India's geographically varied containment policies to estimate the association between the pandemic and containment policies and measures of women's well-being, including mental health and food security. On aggregate, the pandemic resulted in dramatic income losses, increases in food insecurity, and declines in female mental health. While potentially crucial to stem the spread of COVID-19, the greater prevalence of containment policies is associated with increased food insecurity, particularly for women, and reduced female mental health. For surveyed women, moving from zero to average containment levels is associated with a 38% increase in the likelihood of reporting more depression, a 73% increase in reporting more exhaustion, and a 44% increase in reporting more anxiety. Women whose social position may make them more vulnerable--those with daughters and those living in female-headed households--experience even larger declines in mental health.",
+      "pdf" : "https://econgaurav.github.io/papers/Women_wellbeing.pdf",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "development"
+      ],
+      "authors" : "with Natalie Bau, Corinne Low, Manisha Shah, Sreyashi Sharmin, Alessandra Voena",
+      "status" : "Journal of Development Economics, vol 156, March 2022, 102839",
+      "title" : "Women's Well-being During a Pandemic and its Containment"
+   },
+   {
+      "status" : "American Economic Review: Insights vol 3(1), p 97-114, March 2021",
+      "authors" : "with Carlos Medina, Anant Nyshadham, Christian Posso, Jorge Tamayo",
+      "pdf" : "https://econgaurav.github.io/papers/Credit_Crime_Columbia.pdf",
+      "abstract" : "We investigate the effects of job displacement, as a result of mass-layoffs, on criminal arrests using a novel matched employer-employee-crime dataset from Medellín, Colombia. Job displacement leads to immediate and persistent earnings losses, and higher probability of arrest for both the displaced worker and family members. Effects are pronounced for young men for whom opportunities in criminal enterprises are prevalent. Leveraging a banking policy-reform, we find that greater access to credit attenuates the criminal response to job loss. Additional results on heterogeneity and types of crime are also consistent with economic incentives contributing to criminal participation decisions.",
+      "title" : "Job Loss, Credit and Crime in Colombia",
+      "tags" : [
+         "labor",
+         "development",
+         "crime",
+         "trade"
+      ],
+      "type" : "publication"
+   },
+   {
+      "status" : "Journal of Economic Perspectives, vol 35(1), Winter 2021",
+      "title" : "The Globalization of Postsecondary Education: The Role of International Students in the US Higher Education System",
+      "authors" : "with John Bound, Breno Braga, Sarah Turner",
+      "tags" : [
+         "labor",
+         "migration",
+         "education"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Globalization_Education.pdf",
+      "abstract" : "University learning has facilitated the flow of individuals and knowledge across national borders for centuries, but the recent scale of student flows and the magnitude of tuition revenues from foreign students across the globe is unprecedented. The number of students pursuing higher education degrees outside their home countries more than doubled between 2000 and 2017 to reach 5.3 million (UNESCO 2018). For the United States, which has a large number of colleges and universities and a disproportionate share of the most highly ranked colleges and universities in the world, total enrollment of foreign students more than tripled between 1980 and 2017, from 305,000 to over one million students in 2017 (National Center for Enrollment Statistics 2018). This rising population of students from abroad has made higher education a major export sector of the US economy, generating $44 billion in export revenue in 2019, with educational exports being about as big as the total exports of soybeans, corn, and textile supplies combined (Bureau of Economic Analysis 2020)."
+   },
+   {
+      "tags" : [
+         "labor",
+         "development",
+         "education"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Schooling_India.pdf",
+      "abstract" : "We present the first estimates of the effects of higher education investments on lower levels of schooling. Using the roll-out of elite public colleges in India, we show that investments in higher education increased educational attainment among school-age children. Private schools entered districts with new elite public colleges, and students switched from public to private schools. In addition, elite public colleges crowded in investments in electricity, roads, and water services. We find suggestive evidence that public investments in infrastructure may have reduced setup costs for private schools, and consequently, travel costs for school-going children.",
+      "status" : "Journal of Development Economics, vol 146 (2020)",
+      "title" : "The Effects of Elite Public Colleges on Primary and Secondary Schooling Markets in India",
+      "authors" : "with Maulik Jagnani"
+   },
+   {
+      "title" : "Does Affirmative Action Incentivize Schooling? Evidence from India",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "development",
+         "education"
+      ],
+      "status" : "Review of Economics and Statistics, Vol 102(2), May 2020",
+      "authors" : "",
+      "abstract" : "Affirmative action raises the likelihood of getting into college or obtaining a government job for minority social groups in India. I find that minority group students are incentivized to stay in school longer in response to changes in future prospects. To identify causal relationships, I leverage variation in group eligibility, school age cohorts, and state-level intensity of implementation in difference-in-differences and regression discontinuity designs. These estimators consistently show that affirmative action incentivizes about 0.8 additional years of education for the average minority group student and 1.2 more years of education for a student from a marginal minority subgroup.",
+      "pdf" : "https://econgaurav.github.io/papers/Affirmative_Action_India.pdf"
+   },
+   {
+      "abstract" : "The number of international undergraduate students at US public research universities increased dramatically over the past two decades, alongside concurrent reductions in state support for universities. We show that these trends are closely connected as public research universities relied on foreign students to cushion the effects of falling appropriations. The growing capacity in emerging economies to pay for a US education provided opportunities for universities to recover revenues from full-fare-paying foreign students. We estimate that between 1996 and 2012, a 10 percent reduction in state appropriations led to an increase in foreign enrollment of 16 percent at public research universities.",
+      "pdf" : "https://econgaurav.github.io/papers/Passage_to_America.pdf",
+      "authors" : "with John Bound, Breno Braga, Sarah Turner",
+      "status" : "American Economic Journal: Economic Policy, Vol 12 Issue 1, February 2020",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration",
+         "education"
+      ],
+      "title" : "A Passage to America: University Funding and International Students"
+   },
+   {
+      "title" : "Guns and Butter? Fighting Violence with the Promise of Development",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "development",
+         "crime"
+      ],
+      "status" : "Journal of Development Economics, vol 124, January 2017, p 120-141",
+      "authors" : "with Laura Zimmermann",
+      "abstract" : "There is growing awareness that development-oriented government policies may be an important counter-insurgency strategy, but existing papers are usually unable to disentangle various mechanisms. Using a regression-discontinuity design, we analyze the impact of one of the world's largest anti-poverty programs, India's NREGS, on the intensity of Maoist conflict. We find short-run increases of insurgency-related violence, police-initiated attacks, and insurgent attacks on civilians. We discuss how these results relate to established theories in the literature. One mechanism consistent with the empirical patterns is that NREGS induces civilians to share more information with the state, improving police effectiveness.",
+      "pdf" : "https://econgaurav.github.io/papers/Guns_Butter.pdf"
+   },
+   {
+      "tags" : [
+         "labor",
+         "migration",
+         "macro",
+         "trade"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Recruitment_of_foreigners.pdf",
+      "abstract" : "We present and calibrate a dynamic model that characterizes the labor market for computer scientists. In our model, firms can recruit computer scientists from recently graduated college students, from STEM workers working in other occupations, or from a pool of foreign talent. Counterfactual simulations suggest that wages for computer scientists would have been 2.8%-3.8% higher and the number of Americans employed as computer scientists 7.0%-13.6% higher in 2004 if firms could not hire more foreigners than they could in 1994. In contrast, total computer science employment would have been 3.8%-9.0% lower and consequently output smaller.",
+      "status" : "Journal of Labor Economics, vol 33, part 2, July 2015, p S187-S233",
+      "title" : "Recruitment of Foreigners in the Market for Computer Scientists in the US",
+      "authors" : "with John Bound, Breno Braga, Joe Golden"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Fewer_Jobs_Smaller_Paychecks.pdf",
+      "status" : "Chapter in \"Working through the Crisis: Jobs and Policies in Developing Countries during the Great Recession,\" December 2013",
+      "authors" : "with David Newhouse, Pierella Paci",
+      "tags" : [
+         "labor",
+         "trade"
+      ],
+      "type" : "publication",
+      "title" : "Fewer Jobs or Smaller Paychecks? Aggregate Crisis Impacts in Selected Middle-income Countries"
+   },
+   {
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "development",
+         "crime"
+      ],
+      "title" : "Fighting Maoist Violence with Promises: Evidence from India's Employment Guarantee Scheme",
+      "pdf" : "https://econgaurav.github.io/papers/Maoist_Violence.pdf",
+      "authors" : "with Laura Zimmerman",
+      "chapter" : true,
+      "status" : "The Economics of Peace and Security Journal, vol 9, no. 1, 2014"
+   },
+   {
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "education"
+      ],
+      "pdf" : "https://econgaurav.github.io/papers/Degrees_Jobs.pdf",
+      "title" : "Finishing Degrees And Finding Jobs",
+      "status" : "Chapter in Innovation Policy and the Economy, Volume 15, 2014",
+      "authors" : "with John Bound, Murat Demirci, Sarah Turner"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/H1B_Econ_Impact.pdf",
+      "status" : "Chapter in \"High-Skilled Migration to the United States and Its Economic Consequences\" eds. Gordon Hanson, William Kerr, Sarah Turner, 2018",
+      "authors" : "with John Bound, Nicolas Morales",
+      "tags" : [
+         "labor",
+         "migration",
+         "macro"
+      ],
+      "type" : "publication",
+      "title" : "Understanding the Economic Impact of the H-1B Program on the US"
+   },
+   {
+      "authors" : "with Munseob Lee",
+      "title" : "High-Skill Immigration, Innovation, and Creative Destruction",
+      "status" : "Chapter in \"The Role of Immigrants and Foreign Students in Science, Innovation, and Entrepreneurship\" (Ina Ganguli, Shulamit Kahn, Megan MacGarvie, eds.), 2020",
+      "pdf" : "https://econgaurav.github.io/papers/High_Skill_Immigration.pdf",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration",
+         "trade"
+      ]
+   },
+   {
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "education"
+      ],
+      "title" : "Public Universities: The Supply Side of Building a Skilled Workforce",
+      "pdf" : "https://econgaurav.github.io/papers/Public_Universities.pdf",
+      "chapter" : true,
+      "status" : "RSF: The Russell Sage Foundation Journal of the Social Sciences, 2019",
+      "authors" : "with John Bound, Breno Braga, Sarah Turner"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Migrants_Rights.pdf",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration"
+      ],
+      "authors" : "",
+      "chapter" : true,
+      "title" : "Better Migrant Rights Help Native Workers",
+      "status" : "Journal of International Law and Foreign Affairs (UCLA Law), 2020"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Higher_Education.pdf",
+      "abstract" : "Over the last three decades, foreign students have supported the bottom lines of US universities, technology companies, and communities. Now their numbers are falling.",
+      "tags" : [
+         "labor",
+         "migration",
+         "education"
+      ],
+      "type" : "publication",
+      "authors" : "",
+      "title" : "How Higher Education Became an Important US Export",
+      "status" : "Issues in Science and Technology, Fall 2021. National Academy of Sciences"
+   },
+   {
+      "title" : "Reservoir of Foreign Talent",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "migration",
+         "development"
+      ],
+      "chapter" : true,
+      "status" : "Science vol. 356, Issue 6339, pp. 697, May 2017",
+      "authors" : "with John Bound, Nicolas Morales",
+      "pdf" : "https://econgaurav.github.io/papers/Reservoir_of_Foreign_Talent.pdf"
+   },
+   {
+      "abstract" : "We study how firms structure supply chains in the presence of climate risk. We develop a quantitative general equilibrium model of multi-region input sourcing, where firms optimize sourcing decisions under the risk of local climate disruptions. Firms diversify their intermediate inputs from suppliers across space, hedging against the probability of these disruptions. In general equilibrium, input prices and wages are higher for places with lower climate risk, as these regions are relatively more attractive as sourcing locations. This gives rise to a cost minimization-resilience tradeoff when structuring supply chains. We leverage new geographically granular data on bilateral sourcing shares for Indian regions, to quantify the model. We show that supply chain diversification unambiguously reduces real wage volatility, but ambiguously affects its mean, as diversification may come at the cost of a decline in output. While supply chain diversification mitigates climate risk, it exacerbates the distributional consequences of climate change by reducing wages in regions prone to frequent shocks.",
+      "pdf" : "https://econgaurav.github.io/papers/Weathering_the_storm.pdf",
+      "status" : "Under revision for Review of Economics and Statistics",
+      "authors" : "with Juanma Castro-Vincenzi, Nicolas Morales, Nitya Pandalai-Nayar",
+      "type" : "working-paper",
+      "tags" : [
+         "development",
+         "macro",
+         "trade"
+      ],
+      "pending" : true,
+      "title" : "Weathering the Storm: Supply Chains and Climate Risk"
+   },
+   {
+      "abstract" : "We characterize what features make supply chains more resilient. Using new data on the universe of firm-to-firm transactions from an Indian state, we identify firms with larger supplier risk following the Covid-19 lockdowns. Using an event-study design we find firms with suppliers in strict-lockdown districts experienced 4.5pp higher separation rates (a 15% increase relative to baseline). We study which characteristics increase supply-chain resilience. Firms that buy more complex products, with fewer available suppliers, are less likely to break links. We explore how firms change post-shock supplier composition. Firms with higher supplier risk form new links with larger and better-connected suppliers.",
+      "pdf" : "https://econgaurav.github.io/papers/Supply_Chain_Resilience.pdf",
+      "authors" : "with Nicolas Morales, Nitya Pandalai-Nayar",
+      "status" : "Conditionally accepted at American Economic Journal: Macroeconomics",
+      "pending" : true,
+      "type" : "working-paper",
+      "featured" : true,
+      "tags" : [
+         "development",
+         "macro",
+         "trade"
+      ],
+      "title" : "Supply Chain Resilience: Evidence from Indian Firms"
+   },
+   {
+      "status" : "",
+      "authors" : "with Brian Cevallos Fujiy, Devaki Ghose",
+      "abstract" : "We provide one of the first estimates of elasticities of substitution across suppliers within the same product. We estimate these elasticities by using new real-time administrative tax data on product-level prices and quantities with firm-to-firm transactions, and leveraging the geographic and temporal variation from the Covid-19 lockdowns in India. Suppliers are highly complementary even at this granular level, with an estimated elasticity of 0.55, thus amplifying negative shocks by transmitting them through the supply chain. We quantify this transmission and show that under our estimated elasticities, the overall fall in output is substantial and widespread. In policy counterfactuals, we quantify the importance of firm connectivity separately from firm size, and of targeting aid to connected firms. Protecting more connected firms mitigates output declines non-linearly with the size of the productivity shock.",
+      "pdf" : "https://econgaurav.github.io/papers/Production_Networks_Elasticities.pdf",
+      "title" : "Production Networks and Firm-Level Elasticities of Substitution",
+      "type" : "working-paper",
+      "tags" : [
+         "development",
+         "macro",
+         "trade"
+      ]
+   },
+   {
+      "title" : "Endogenous Production Networks and Firm Dynamics",
+      "type" : "working-paper",
+      "tags" : [
+         "development",
+         "macro",
+         "trade"
+      ],
+      "status" : "",
+      "authors" : "with Anuraag Aekka",
+      "abstract" : "We study the role of firm-to-firm matching in shaping firm dynamics and aggregate productivity. Using transaction-level data from a large Indian state, we document lifecycle patterns of customer and supplier networks. We find that younger firms have fewer customers and suppliers, lower sales and intermediate expenditures, and higher input costs. Motivated by these patterns, we develop a model of endogenous network formation where heterogeneous firms slowly match with partners over time using a random search technology. Firms in the decentralized equilibrium search inefficiently due to standard search externalities. This inefficiency turns out to be central for understanding how search technology shapes aggregate productivity. Calibrating the model to the Indian data, we find that most of the gains from technology improvement come from improvement in allocative efficiency, rather than in technical efficiency.",
+      "pdf" : "https://econgaurav.github.io/papers/Endogenous_Production_Networks.pdf"
+   },
+   {
+      "title" : "Hometown Conflict and Refugees' Integration Efforts",
+      "type" : "working-paper",
+      "tags" : [
+         "development",
+         "migration",
+         "crime"
+      ],
+      "pending" : true,
+      "status" : "Revise and resubmit at Journal of the European Economic Association",
+      "authors" : "with Cevat Giray Aksoy, Victoria Marino, Semih Tumen",
+      "abstract" : "How does violence in origin areas affect the educational outcomes of refugees in their destinations? Using administrative panel data, we find that heightened violence in the hometowns of Syrian students leads to improvements in their school outcomes in Türkiye. Turkish language and Math scores of refugee students improve, with larger impacts on Turkish scores. There is no impact on naturalized Syrian students. We observe positive spillovers on Turkish students. These findings suggest ongoing violence in refugee-origin areas reduces the prospect of returning home, and induces students to better integrate into host countries by investing in education.",
+      "pdf" : "https://econgaurav.github.io/papers/Refugee_Education_paper.pdf"
+   },
+   {
+      "type" : "working-paper",
+      "tags" : [
+         "development"
+      ],
+      "title" : "Road Oft Taken: The Route to Spatial Development",
+      "abstract" : "Most estimates of the economic impacts of transit networks compare regions along routes to neighboring regions away from such routes. In the presence of spatial spillovers in economic activity such a method will underestimate the true effect of roads and railways. In this paper, I take into account spatial spillovers in estimating the overall impacts of transit networks in India. I use an empirical strategy relying on the historical placement of major cities: by connecting nodal cities with straight lines, I instrument for the endogenous placement of these networks. Using night-time luminosity data as a measure of economic activity, I estimate the parameters of a predictive model that incorporates these spillovers, which then performs well in an out-of-sample exercise. I find that being close to transit networks between cities led to greater economic activity in the 1990s and that such activity spread to neighboring regions, substantially increasing the overall impacts. Ignoring the spillovers produces income elasticities that are only 27% of the true overall effects of such routes. These geographic externalities led to a rapid rate of convergence in incomes across regions, highlighting how transit networks and spatial spillovers together, strongly determined the geographic spread and temporal changes in the economic development of the region.",
+      "pdf" : "https://econgaurav.github.io/papers/Road_Oft_Taken.pdf",
+      "status" : "",
+      "authors" : ""
+   },
+   {
+      "title" : "Cultural Proximity and Inter-firm Trade",
+      "status" : "European Economic Review, 2025",
+      "authors" : "with Brian Cevallos Fujiy, Hiroshi Toma",
+      "tags" : [
+         "development",
+         "macro",
+         "trade"
+      ],
+      "type" : "publication",
+      "pdf" : "https://econgaurav.github.io/papers/Aggregate_Implications.pdf",
+      "abstract" : "Low-quality institutions are prevalent in emerging economies, generating micro-level trade frictions. Consequently, firms may rely on informal institutions and socio-cultural ties between firm owners, to overcome such frictions. Using new microdata on firm-to-firm trade from India with information on prices, transactions, and caste and religious connections, we find that higher caste and religious proximity reduces prices, and fosters trade at intensive and extensive margins. We provide supporting evidence on such proximity alleviating contracting frictions. We formalize these findings in a quantitative inter-firm trade model with cultural proximity between firm owners. A policy counterfactual analysis indicates that an economy composed of culturally closer firms features lower costs, lower prices, higher sales, and higher welfare than an economy with culturally distant firms."
+   },
+   {
+      "type" : "publication",
+      "tags" : [
+         "development",
+         "crime"
+      ],
+      "title" : "Political Accountability for Populist Policies: Lessons from India's Demonetization",
+      "abstract" : "We know little about the electoral effects of policies with broad appeal that are implemented by popular leaders, but which have adverse economics effects. We analyze voter behavior following one such policy implemented in the world's largest democracy -- India's 2016 'Demonetization,' which unexpectedly made 86% of the currency-in-circulation redundant overnight, and led to severe cash shortages and economic hardship in subsequent months. Yet, the policy appealed to a majority of voters, and was framed as one that would combat corruption. We leverage a discontinuity in the number of bank branches arising from a nationwide, district-level bank expansion policy. Using the fact that districts with fewer banks had greater cash shortages, we identify the impacts of demonetization's economic severity at the bank-expansion cutoff. Regression discontinuity estimates show that following demonetization, voters in places with more severe demonetization had less favorable views of the policy. Using a difference-in-discontinuity design, we find that the ruling party performed relatively worse in regions with more severe demonetization, receiving a 4.7 percentage point lower fraction of votes, and were relatively less likely to win seats in state legislatures. Areas that were historically strongly aligned with the ruling party were nearly unresponsive in voting behavior, despite having a less favorable view of the policy itself.",
+      "pdf" : "https://econgaurav.github.io/papers/Populist_Policies.pdf",
+      "status" : "Journal of Public Economics, Vol 219, March 2023, 104819",
+      "authors" : "with Priya Mukherjee"
+   },
+   {
+      "title" : "Resources, Conflict and Economic Development in Africa",
+      "type" : "publication",
+      "tags" : [
+         "development",
+         "crime"
+      ],
+      "authors" : "with Ach Adhvaryu, James Fenske, Anant Nyshadham",
+      "status" : "Journal of Development Economics, vol 149, March 2021, 102598",
+      "abstract" : "Evidence suggests that natural resources have driven conflict and underdevelopment in modern Africa. We show that this relationship exists primarily when neighboring regions are resource-rich. When neighbors are resource-poor, own resources instead drive economic growth. To motivate the empirical study of this set of facts, we present a simple model of parties engaged in potential conflict over resources, revealing that economic prosperity is a function of equilibrium conflict prevalence, determined not just by a region's own resources but also by the resources of its neighbors. Structural estimates confirm the model's predictions, and reveal that conflict equilibria are more prevalent where institutional quality is worse.",
+      "pdf" : "https://econgaurav.github.io/papers/EconDev_Africa.pdf"
+   },
+   {
+      "pdf" : "https://econgaurav.github.io/papers/Refugee_Gaps.pdf",
+      "abstract" : "This paper examines the education gap between Syrian refugee children and their Turkish peers, focusing on mandatory subjects such as Mathematics and the Turkish language. Using administrative data from Türkiye, we document how these gaps vary by grade level, gender, and years since arrival. Understanding these patterns is crucial for developing effective educational policies that support both refugee children and their host communities.",
+      "tags" : [
+         "migration"
+      ],
+      "type" : "publication",
+      "authors" : "with Cevat Giray Aksoy, Victoria Marino, Semih Tumen",
+      "title" : "Native-Refugee Education Gaps",
+      "status" : "American Economic Association, Papers and Proceedings, vol 115, 2025"
+   }
+]
