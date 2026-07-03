@@ -1,7 +1,8 @@
 # How to update this site
 
 There is no build step. Every page loads its content from two files —
-edit those, commit, and the live site updates in under a minute.
+edit those, commit, and the live site updates in under a minute. 
+
 
 ## Add a new paper
 
