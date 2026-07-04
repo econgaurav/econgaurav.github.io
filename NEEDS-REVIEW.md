@@ -1,22 +1,38 @@
-# 48 media entries need a link
+# 16 media entries still flagged
 
-While migrating `media.json` from the live site, 48 of the 249 press
-entries (out of 2017, 2018, and 2022) turned out to link only through
-newsletter/tracking redirect URLs that have since expired (mostly a
-2022 "pandemic mental health" press cluster and a 2018 "H-1B
-innovation" cluster). Rather than invent a URL, those entries are in
-the data file with a `"needs_review": true` flag and a `"note"`
-explaining what's missing — they still display on the Media page
-(outlet + title), they just aren't clickable yet.
+Down from an original 48 after two cleanup passes (the 2022 "pandemic
+mental health" cluster was consolidated into one entry with an
+"Also covered by" list, and 14 other dead links across the site were
+found working replacements via live search / Wayback Machine).
 
-To fix one: search the outlet's site for the article title, then add
-a `"url"` field to that entry in `data/media.json` and delete the
-`needs_review`/`note` fields.
+## 13 entries with no link at all (2018 "H-1B innovation study" cluster)
 
-Two entries (Bloomberg and Al Jazeera TV interviews, both 2017) only
-ever linked to private Dropbox video files, not public pages — those
-are flagged too; leave them as-is unless you have a public video URL
-to swap in.
+These outlets ran essentially the same story about a 2018 innovation
+study, all originally linked only through expired newsletter tracking
+redirects, and no live or Wayback copy could be found for any of them:
+San Diego Union-Tribune, Dice Insights, UCSD News, CBS 8, Times of San
+Diego, Fox 5 San Diego, Science Daily, EurekAlert, Eurasia Review,
+ScienceMag, Domain B, State Science & Technology Institute. They still
+display on the Media page (outlet + title), just aren't clickable.
 
-This is optional cleanup, not a blocker — the site works correctly
-with these left as-is.
+## 2 entries confirmed genuinely gone (checked live + Wayback Machine, and against Gaurav's own CV document — no link anywhere)
+
+- **Moms.com** (2020) — "Study Shows Affirmative Action Encourages Underrepresented Teens To Study Harder"
+- **The Hindu** (2017) — "H-1B visas help uplift welfare of Americans: study" (thehindu.com appears to have blocked the Wayback Machine's crawler back when this ran, so no archive exists either)
+
+## 2 entries that DO have a link, just a minor title caveat
+
+- **Bloomberg** (2017) — "Trump's Immigration Ban Could Cost U.S. Colleges $700 Million"
+- **Quartz** (2017) — "New research shows who will be hurt and helped if America's tech industry can't hire the world's best talent"
+
+Both of these titles were reconstructed from the article's URL slug
+rather than confirmed against the live rendered page (the pages
+themselves weren't fetchable at extraction time). The links work; if
+you want to double check the exact wording, click through once.
+
+## To fix any of these
+
+Search the outlet's site (or Google/Wayback Machine) for the article
+title, then add a `"url"` field to that entry in `data/media.json` and
+delete the `needs_review`/`note` fields. All optional — the site works
+correctly with these left exactly as they are.
