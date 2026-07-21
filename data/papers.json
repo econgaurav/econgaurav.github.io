@@ -560,5 +560,29 @@
       "authors" : "with Cevat Giray Aksoy, Victoria Marino, Semih Tumen",
       "title" : "Native-Refugee Education Gaps",
       "status" : "American Economic Association, Papers and Proceedings, vol 115, 2025"
+   },
+      {
+      "title" : "Love in the Time of Zika",
+      "authors" : "with C. Austin Davis, Maddison Erbabian, Margaret J. Lay",
+      "status" : "",
+      "type" : "working-paper",
+      "tags" : [
+         "labor",
+         "development"
+      ],
+      "pdf" : "https://econgaurav.github.io/papers/Zika.pdf",
+      "abstract" : "We study how an aggregate fertility decline shapes women's labor-market behavior and family formation, and whether these behavioral adjustments contribute toward sustaining the fertility decline. Brazil's late-2015 disclosure of severe fetal risks from Zika sharply raised the perceived cost of pregnancy, despite the virus causing mild symptoms in most adults. We link administrative birth and marriage records with labor-force survey data and compare changes across areas using three complementary measures of Zika exposure: publicized case prevalence, environmental suitability for the Aedes aegypti mosquito, and Google search activity. Across measures, births fell by 10.7 percent in the most exposed areas and did not subsequently rebound, indicating that many missing births were foregone rather than postponed. Women's employment and earnings rose beginning nine months after the health emergency declaration, averaging a post-Zika increase of 1.55 percentage points in employment and 43.6 reais in earnings. Family formation also changed: divorces increased by 11.8 percent, on average, while marriages rose by 4.0 percent with roughly a one-year lag. Together, the persistent changes in births, work, and relationships are consistent with a dynamic process in which adjustments following the initial fertility shock may help sustain lower fertility. More broadly, our findings show how aggregate fertility reductions, rather than individual birth events, can reshape women's labor-market trajectories and family formation, with implications for understanding persistent fertility declines worldwide."
+   },
+   {
+      "title" : "Gender Pay Gaps in the Social Sciences",
+      "authors" : "with Ayelet Gneezy, Uri Gneezy, Joshua Graff Zivin, Elizabeth Lyons, Marta Serra-Garcia",
+      "status" : "PNAS, vol 123, no. 30, e2524119123, 2026",
+      "type" : "publication",
+      "tags" : [
+         "labor",
+         "education"
+      ],
+      "pdf" : "https://econgaurav.github.io/papers/UC_Gender_Gap.pdf",
+      "abstract" : "We provide a longitudinal, multifield analysis of the gender pay gap in academia that directly links individual-level salaries to measures of scholarly productivity. Using administrative data from the ten campuses that comprise the University of California system, we combine detailed pay records with bibliometric data on publications and citations for faculty in five major social science fields. We find a raw gender pay gap of 23%, which decreases to 4.3% after controlling for field, campus, and cohort. Including controls for job title and scholarly productivity has little effect on the estimated gap, although they substantially increase explanatory power. A decomposition shows that 17% of the gap is unexplained, persisting across junior and senior faculty. We also find a large, persistent gender gap in publications, but no citation gap once output and career length are considered. Field-level analysis reveals that pay gaps are not universal: they persist in Business, Sociology, and Anthropology, but are absent in Economics, Political Science, and smaller social science fields. Our results suggest that pay transparency is insufficient to eliminate salary disparities and that more equal representation within the field is not a prerequisite for pay equity. Our study isolates the residual gap that remains unexplained by productivity or seniority, challenging the view that these factors fully account for gender differences. Taken together, our findings highlight the role of field-specific norms and institutional structures, offering directions to promote equitable compensation in academia."
    }
 ]
