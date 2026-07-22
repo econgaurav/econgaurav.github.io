@@ -1,6 +1,13 @@
 [
       {
       "category" : "coverage",
+      "url" : "https://www.economist.com/graphic-detail/2026/07/21/where-should-you-move-for-higher-pay",
+      "title" : "Where should you move for higher pay?",
+      "outlet" : "The Economist",
+      "year" : "2026"
+   },
+   {
+      "category" : "coverage",
       "url" : "https://www.chronicle.com/article/think-you-know-why-male-professors-make-more-you-may-be-wrong",
       "title" : "Think You Know Why Male Professors Make More? You May Be Wrong.",
       "outlet" : "The Chronicle of Higher Education",
