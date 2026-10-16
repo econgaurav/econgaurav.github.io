@@ -84,7 +84,7 @@
    },
    {
       "authors" : "with Ruixue Jia, Hongbin Li, Yuli Xu",
-      "status" : "Under revision for Economic Journal",
+      "status" : "Conditionally accepted at Economic Journal",
       "pdf" : "https://econgaurav.github.io/papers/RippleEffects.pdf",
       "abstract" : "China's unprecedented expansion of higher education in 1999, increased annual college enrollment from 1 million to 9.6 million by 2020. We trace the global ripple effects of that expansion by examining its impact on US graduate education and local economies surrounding college towns. Combining administrative data from China's college admissions system and US visa data, we leverage the centralized quota system governing Chinese college admissions for identification and present three key findings. First, the expansion of Chinese undergraduate education drove graduate student flows to the US: every additional 100 college graduates in China led to 3.6 Chinese graduate students in the US. Second, Chinese master's students generated positive spillovers, driving the birth of new master's programs, and increasing the number of other international and American master's students, particularly in STEM fields. And third, the influx of international students supported local economies around college towns, raising job creation rates outside the universities, as well. Our findings highlight how domestic education policy in one country can reshape the academic and economic landscape of another through student migration and its broader spillovers.",
       "title" : "The Ripple Effects of China's College Expansion on American Universities",
@@ -451,7 +451,7 @@
       "abstract" : "We characterize what features make supply chains more resilient. Using new data on the universe of firm-to-firm transactions from an Indian state, we identify firms with larger supplier risk following the Covid-19 lockdowns. Using an event-study design we find firms with suppliers in strict-lockdown districts experienced 4.5pp higher separation rates (a 15% increase relative to baseline). We study which characteristics increase supply-chain resilience. Firms that buy more complex products, with fewer available suppliers, are less likely to break links. We explore how firms change post-shock supplier composition. Firms with higher supplier risk form new links with larger and better-connected suppliers.",
       "pdf" : "https://econgaurav.github.io/papers/Supply_Chain_Resilience.pdf",
       "authors" : "with Nicolas Morales, Nitya Pandalai-Nayar",
-      "status" : "Conditionally accepted at American Economic Journal: Macroeconomics",
+      "status" : "Forthcoming at American Economic Journal: Macroeconomics",
       "pending" : true,
       "type" : "working-paper",
       "featured" : true,
@@ -496,8 +496,7 @@
          "migration",
          "crime"
       ],
-      "pending" : true,
-      "status" : "Revise and resubmit at Journal of the European Economic Association",
+      "status" : "",
       "authors" : "with Cevat Giray Aksoy, Victoria Marino, Semih Tumen",
       "abstract" : "How does violence in origin areas affect the educational outcomes of refugees in their destinations? Using administrative panel data, we find that heightened violence in the hometowns of Syrian students leads to improvements in their school outcomes in Türkiye. Turkish language and Math scores of refugee students improve, with larger impacts on Turkish scores. There is no impact on naturalized Syrian students. We observe positive spillovers on Turkish students. These findings suggest ongoing violence in refugee-origin areas reduces the prospect of returning home, and induces students to better integrate into host countries by investing in education.",
       "pdf" : "https://econgaurav.github.io/papers/Refugee_Education_paper.pdf"
